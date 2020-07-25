@@ -7,6 +7,6 @@
 ![Nomal_Case][normal_case]
 
 **2. With Servo holder Case**
-* File(STL) : **Algyan-5th-01_and_servo.stl**
+* File(STL) : **Algyan-5th-01_and_servo v2.stl**
 ![With_Servo_Case][servo_case]
 
