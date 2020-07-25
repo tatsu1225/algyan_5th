@@ -1,5 +1,5 @@
 [normal_case]: img/Algyan-5th-01_1.png
-[servo_case]: "img/Algyan-5th-01_and_servo v2.png"
+[servo_case]: img/Algyan-5th-01_and_servo v2.png
 
 ## Algyan 5th Board Case
 **1. Normal Case**
